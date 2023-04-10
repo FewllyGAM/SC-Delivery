@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: ec1118894b91e4e4581aad25cee7308f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: pd-dentitsta
+    100002: pd-restaurante
+    100004: pd-salao
+    100006: pd-tatoo
+    100008: pe-dentista
+    100010: pe-restaurante
+    100012: pe-salao
+    100014: pe-tatoo
+    100016: pg-baratao
+    100018: pg-eletronicos
+    100020: "pg-sacol\xE3o"
+    100022: pg-supermercado
+    100024: //RootNode
+    100026: pp-acai
+    100028: pp-bar1
+    100030: pp-bar2
+    100032: pp-bar3
+    100034: pp-lanchonete
+    100036: pp-restaurante
+    400000: pd-dentitsta
+    400002: pd-restaurante
+    400004: pd-salao
+    400006: pd-tatoo
+    400008: pe-dentista
+    400010: pe-restaurante
+    400012: pe-salao
+    400014: pe-tatoo
+    400016: pg-baratao
+    400018: pg-eletronicos
+    400020: "pg-sacol\xE3o"
+    400022: pg-supermercado
+    400024: //RootNode
+    400026: pp-acai
+    400028: pp-bar1
+    400030: pp-bar2
+    400032: pp-bar3
+    400034: pp-lanchonete
+    400036: pp-restaurante
+    2100000: Material.006
+    2300000: pd-dentitsta
+    2300002: pd-restaurante
+    2300004: pd-salao
+    2300006: pd-tatoo
+    2300008: pe-dentista
+    2300010: pe-restaurante
+    2300012: pe-salao
+    2300014: pe-tatoo
+    2300016: pg-baratao
+    2300018: pg-eletronicos
+    2300020: "pg-sacol\xE3o"
+    2300022: pg-supermercado
+    2300024: pp-acai
+    2300026: pp-bar1
+    2300028: pp-bar2
+    2300030: pp-bar3
+    2300032: pp-lanchonete
+    2300034: pp-restaurante
+    3300000: pd-dentitsta
+    3300002: pd-restaurante
+    3300004: pd-salao
+    3300006: pd-tatoo
+    3300008: pe-dentista
+    3300010: pe-restaurante
+    3300012: pe-salao
+    3300014: pe-tatoo
+    3300016: pg-baratao
+    3300018: pg-eletronicos
+    3300020: "pg-sacol\xE3o"
+    3300022: pg-supermercado
+    3300024: pp-acai
+    3300026: pp-bar1
+    3300028: pp-bar2
+    3300030: pp-bar3
+    3300032: pp-lanchonete
+    3300034: pp-restaurante
+    4300000: "pg-sacol\xE3o"
+    4300002: pg-eletronicos
+    4300004: pg-baratao
+    4300006: pg-supermercado
+    4300008: pd-salao
+    4300010: pd-restaurante
+    4300012: pd-dentitsta
+    4300014: pd-tatoo
+    4300016: pe-tatoo
+    4300018: pe-dentista
+    4300020: pe-restaurante
+    4300022: pe-salao
+    4300024: pp-bar3
+    4300026: pp-bar2
+    4300028: pp-bar1
+    4300030: pp-acai
+    4300032: pp-restaurante
+    4300034: pp-lanchonete
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

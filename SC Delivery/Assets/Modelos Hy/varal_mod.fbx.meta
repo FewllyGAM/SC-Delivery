@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 3f586c79f8efbd841abd4bfe83aec857
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: pregador
+    100002: roupa_01_high
+    100004: roupa_01_normal
+    100006: roupa_02_high
+    100008: roupa_02_normal
+    100010: roupa_03_high
+    100012: roupa_03_normal
+    100014: roupa_04_high
+    100016: roupa_04_normal
+    100018: roupa_05_high
+    100020: roupa_05_normal
+    100022: roupa_06_high
+    100024: roupa_06_normal
+    100026: roupa_enfeite_01
+    100028: roupa_enfeite_02
+    100030: roupa_enfeite_03
+    100032: varal avulso
+    100034: varal com suporte
+    100036: //RootNode
+    400000: pregador
+    400002: roupa_01_high
+    400004: roupa_01_normal
+    400006: roupa_02_high
+    400008: roupa_02_normal
+    400010: roupa_03_high
+    400012: roupa_03_normal
+    400014: roupa_04_high
+    400016: roupa_04_normal
+    400018: roupa_05_high
+    400020: roupa_05_normal
+    400022: roupa_06_high
+    400024: roupa_06_normal
+    400026: roupa_enfeite_01
+    400028: roupa_enfeite_02
+    400030: roupa_enfeite_03
+    400032: varal avulso
+    400034: varal com suporte
+    400036: //RootNode
+    2100000: madeira.001
+    2100002: roupas
+    2100004: roupas.001
+    2100006: madeira
+    2100008: corda
+    2100010: corda.001
+    2300000: pregador
+    2300002: roupa_01_high
+    2300004: roupa_01_normal
+    2300006: roupa_02_high
+    2300008: roupa_02_normal
+    2300010: roupa_03_high
+    2300012: roupa_03_normal
+    2300014: roupa_04_high
+    2300016: roupa_04_normal
+    2300018: roupa_05_high
+    2300020: roupa_05_normal
+    2300022: roupa_06_high
+    2300024: roupa_06_normal
+    2300026: roupa_enfeite_01
+    2300028: roupa_enfeite_02
+    2300030: roupa_enfeite_03
+    2300032: varal avulso
+    2300034: varal com suporte
+    3300000: pregador
+    3300002: roupa_01_high
+    3300004: roupa_01_normal
+    3300006: roupa_02_high
+    3300008: roupa_02_normal
+    3300010: roupa_03_high
+    3300012: roupa_03_normal
+    3300014: roupa_04_high
+    3300016: roupa_04_normal
+    3300018: roupa_05_high
+    3300020: roupa_05_normal
+    3300022: roupa_06_high
+    3300024: roupa_06_normal
+    3300026: roupa_enfeite_01
+    3300028: roupa_enfeite_02
+    3300030: roupa_enfeite_03
+    3300032: varal avulso
+    3300034: varal com suporte
+    4300000: pregador
+    4300002: roupa_04_high
+    4300004: roupa_01_high
+    4300006: roupa_02_high
+    4300008: roupa_06_high
+    4300010: roupa_03_high
+    4300012: roupa_05_high
+    4300014: roupa_04_normal
+    4300016: roupa_01_normal
+    4300018: roupa_enfeite_01
+    4300020: roupa_05_normal
+    4300022: roupa_06_normal
+    4300024: roupa_enfeite_03
+    4300026: roupa_enfeite_02
+    4300028: roupa_03_normal
+    4300030: roupa_02_normal
+    4300032: varal avulso
+    4300034: varal com suporte
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

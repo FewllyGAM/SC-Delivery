@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 7f120f678ed2df343bbfc68e56693141
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bolsa
+    100004: Bone
+    100006: Bone_001
+    100008: Bone_002
+    100010: Bone_003
+    100012: Bone_004
+    100014: Bone_005
+    100016: Bone_006
+    100018: Bra_o_L
+    100020: Bra_o_L_001
+    100022: Bra_o_L_002
+    100024: Bra_o_L_003
+    100026: Bra_o_L_004
+    100028: Bra_o_L_005
+    100030: Bra_o_R
+    100032: Bra_o_R_001
+    100034: Bra_o_R_002
+    100036: Bra_o_R_003
+    100038: Bra_o_R_004
+    100040: Bra_o_R_005
+    100042: Cabelo_
+    100044: Capacete
+    100046: Ombro_L
+    100048: Ombro_R_001
+    100050: Oper_rio
+    100052: //RootNode
+    100054: P__L
+    100056: P__R
+    100058: Perna_L
+    100060: Perna_L_001
+    100062: Perna_R
+    100064: Perna_R_001
+    400000: Armature
+    400002: Bolsa
+    400004: Bone
+    400006: Bone_001
+    400008: Bone_002
+    400010: Bone_003
+    400012: Bone_004
+    400014: Bone_005
+    400016: Bone_006
+    400018: Bra_o_L
+    400020: Bra_o_L_001
+    400022: Bra_o_L_002
+    400024: Bra_o_L_003
+    400026: Bra_o_L_004
+    400028: Bra_o_L_005
+    400030: Bra_o_R
+    400032: Bra_o_R_001
+    400034: Bra_o_R_002
+    400036: Bra_o_R_003
+    400038: Bra_o_R_004
+    400040: Bra_o_R_005
+    400042: Cabelo_
+    400044: Capacete
+    400046: Ombro_L
+    400048: Ombro_R_001
+    400050: Oper_rio
+    400052: //RootNode
+    400054: P__L
+    400056: P__R
+    400058: Perna_L
+    400060: Perna_L_001
+    400062: Perna_R
+    400064: Perna_R_001
+    2100000: Material_002__Untitled
+    2100002: Material_002
+    2100004: Material_002__Blusa_Diffuse_Color
+    2100006: Material_002__Blusa_Diffuse_Color_001
+    2100008: Material_002__Oper_rio
+    4300000: Oper_rio
+    4300002: Capacete
+    4300004: Cabelo_
+    4300006: Bolsa
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Bolsa
+    13700002: Cabelo_
+    13700004: Capacete
+    13700006: Oper_rio
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

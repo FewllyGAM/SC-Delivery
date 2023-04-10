@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ab51815d0dce28242ab4b4cfd37e88ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - compraSFX: {fileID: 8300000, guid: 5a4c2cc80de13db4f94b489ec7987bb1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

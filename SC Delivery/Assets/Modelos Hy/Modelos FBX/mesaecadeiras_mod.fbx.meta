@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: dfd9798115f0b694cbb8bcbfd97ee58f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: banco _madeira_1
+    100002: banco-plastico
+    100004: banco_madeira_2
+    100006: cadeira-plastico-2
+    100008: cadeira-sol-2
+    100010: cadeira_madeira_3
+    100012: cadeira_plastico_3
+    100014: cadeira_sol_1
+    100016: caderia_sol_3
+    100018: mesa-madeira-3
+    100020: mesa-madeira_1
+    100022: mesa-madeira_2
+    100024: mesa-plastico-2
+    100026: mesa-plastico_3
+    100028: mesa_plastico_1
+    100030: //RootNode
+    400000: banco _madeira_1
+    400002: banco-plastico
+    400004: banco_madeira_2
+    400006: cadeira-plastico-2
+    400008: cadeira-sol-2
+    400010: cadeira_madeira_3
+    400012: cadeira_plastico_3
+    400014: cadeira_sol_1
+    400016: caderia_sol_3
+    400018: mesa-madeira-3
+    400020: mesa-madeira_1
+    400022: mesa-madeira_2
+    400024: mesa-plastico-2
+    400026: mesa-plastico_3
+    400028: mesa_plastico_1
+    400030: //RootNode
+    2100000: Material.005
+    2300000: banco _madeira_1
+    2300002: banco-plastico
+    2300004: banco_madeira_2
+    2300006: cadeira-plastico-2
+    2300008: cadeira-sol-2
+    2300010: cadeira_madeira_3
+    2300012: cadeira_plastico_3
+    2300014: cadeira_sol_1
+    2300016: caderia_sol_3
+    2300018: mesa-madeira-3
+    2300020: mesa-madeira_1
+    2300022: mesa-madeira_2
+    2300024: mesa-plastico-2
+    2300026: mesa-plastico_3
+    2300028: mesa_plastico_1
+    3300000: banco _madeira_1
+    3300002: banco-plastico
+    3300004: banco_madeira_2
+    3300006: cadeira-plastico-2
+    3300008: cadeira-sol-2
+    3300010: cadeira_madeira_3
+    3300012: cadeira_plastico_3
+    3300014: cadeira_sol_1
+    3300016: caderia_sol_3
+    3300018: mesa-madeira-3
+    3300020: mesa-madeira_1
+    3300022: mesa-madeira_2
+    3300024: mesa-plastico-2
+    3300026: mesa-plastico_3
+    3300028: mesa_plastico_1
+    4300000: cadeira_sol_1
+    4300002: cadeira-sol-2
+    4300004: cadeira_madeira_3
+    4300006: mesa-madeira-3
+    4300008: cadeira_plastico_3
+    4300010: mesa-plastico_3
+    4300012: cadeira-plastico-2
+    4300014: mesa-plastico-2
+    4300016: mesa-madeira_2
+    4300018: banco_madeira_2
+    4300020: mesa_plastico_1
+    4300022: banco-plastico
+    4300024: banco _madeira_1
+    4300026: mesa-madeira_1
+    4300028: caderia_sol_3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

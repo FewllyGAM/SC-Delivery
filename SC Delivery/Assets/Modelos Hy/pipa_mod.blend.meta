@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 9827adf85d4dc3640ac616d6459f9025
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: pipa_01_cortado
+    100002: pipa_01_esticado
+    100004: pipa_01_normal
+    100006: pipa_02_cortado
+    100008: pipa_02_esticado
+    100010: pipa_02_normal
+    100012: pipa_03_cortado
+    100014: pipa_03_esticado
+    100016: pipa_03_normal
+    100018: pipa_04_cortado
+    100020: pipa_04_esticado
+    100022: pipa_04_normal
+    100024: pipa_05_cortado
+    100026: pipa_05_esticado
+    100028: pipa_05_normal
+    100030: pipa_06_cortado
+    100032: pipa_06_esticado
+    100034: pipa_06_normal
+    100036: pipa_07_cortado
+    100038: pipa_07_esticado
+    100040: pipa_07_normal
+    100042: pipa_08_cortado
+    100044: pipa_08_esticado
+    100046: pipa_08_normal
+    100048: //RootNode
+    400000: pipa_01_cortado
+    400002: pipa_01_esticado
+    400004: pipa_01_normal
+    400006: pipa_02_cortado
+    400008: pipa_02_esticado
+    400010: pipa_02_normal
+    400012: pipa_03_cortado
+    400014: pipa_03_esticado
+    400016: pipa_03_normal
+    400018: pipa_04_cortado
+    400020: pipa_04_esticado
+    400022: pipa_04_normal
+    400024: pipa_05_cortado
+    400026: pipa_05_esticado
+    400028: pipa_05_normal
+    400030: pipa_06_cortado
+    400032: pipa_06_esticado
+    400034: pipa_06_normal
+    400036: pipa_07_cortado
+    400038: pipa_07_esticado
+    400040: pipa_07_normal
+    400042: pipa_08_cortado
+    400044: pipa_08_esticado
+    400046: pipa_08_normal
+    400048: //RootNode
+    2100000: Material__atlas_5_9_22_27_30_31_35_37_38_png
+    2300000: pipa_01_cortado
+    2300002: pipa_01_esticado
+    2300004: pipa_01_normal
+    2300006: pipa_02_cortado
+    2300008: pipa_02_esticado
+    2300010: pipa_02_normal
+    2300012: pipa_03_cortado
+    2300014: pipa_03_esticado
+    2300016: pipa_03_normal
+    2300018: pipa_04_cortado
+    2300020: pipa_04_esticado
+    2300022: pipa_04_normal
+    2300024: pipa_05_cortado
+    2300026: pipa_05_esticado
+    2300028: pipa_05_normal
+    2300030: pipa_06_cortado
+    2300032: pipa_06_esticado
+    2300034: pipa_06_normal
+    2300036: pipa_07_cortado
+    2300038: pipa_07_esticado
+    2300040: pipa_07_normal
+    2300042: pipa_08_cortado
+    2300044: pipa_08_esticado
+    2300046: pipa_08_normal
+    3300000: pipa_01_cortado
+    3300002: pipa_01_esticado
+    3300004: pipa_01_normal
+    3300006: pipa_02_cortado
+    3300008: pipa_02_esticado
+    3300010: pipa_02_normal
+    3300012: pipa_03_cortado
+    3300014: pipa_03_esticado
+    3300016: pipa_03_normal
+    3300018: pipa_04_cortado
+    3300020: pipa_04_esticado
+    3300022: pipa_04_normal
+    3300024: pipa_05_cortado
+    3300026: pipa_05_esticado
+    3300028: pipa_05_normal
+    3300030: pipa_06_cortado
+    3300032: pipa_06_esticado
+    3300034: pipa_06_normal
+    3300036: pipa_07_cortado
+    3300038: pipa_07_esticado
+    3300040: pipa_07_normal
+    3300042: pipa_08_cortado
+    3300044: pipa_08_esticado
+    3300046: pipa_08_normal
+    4300000: pipa_02_normal
+    4300002: pipa_03_normal
+    4300004: pipa_04_normal
+    4300006: pipa_05_normal
+    4300008: pipa_06_normal
+    4300010: pipa_07_normal
+    4300012: pipa_08_normal
+    4300014: pipa_02_esticado
+    4300016: pipa_03_esticado
+    4300018: pipa_04_esticado
+    4300020: pipa_05_esticado
+    4300022: pipa_06_esticado
+    4300024: pipa_07_esticado
+    4300026: pipa_08_esticado
+    4300028: pipa_02_cortado
+    4300030: pipa_03_cortado
+    4300032: pipa_04_cortado
+    4300034: pipa_05_cortado
+    4300036: pipa_06_cortado
+    4300038: pipa_07_cortado
+    4300040: pipa_08_cortado
+    4300042: pipa_01_cortado
+    4300044: pipa_01_esticado
+    4300046: pipa_01_normal
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
